@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomSeekBar">
+
+        <!-- 默认线条颜色 -->
+        <attr name="normal_background" format="color"></attr>
+
+        <!-- 选择颜色 -->
+        <attr name="select_background" format="color"></attr>
+
+        <!-- 总共分为几段-->
+        <attr name="section" format="integer"></attr>
+
+        <!-- 默认选中第几段 -->
+        <attr name="default_selection" format="integer"></attr>
+
+        <!-- 圆圈 -->
+        <attr name="circle_src" format="reference"></attr>
+
+
+        <!-- 最小值-->
+        <attr name="min_value" format="integer"></attr>
+
+        <!-- 是否靠近值 -->
+        <attr name="select" format="boolean"></attr>
+    </declare-styleable>
+</resources>
