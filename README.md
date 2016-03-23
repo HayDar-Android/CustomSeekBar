@@ -1,6 +1,5 @@
 #CustomSeekBar  
 [![Build Status](https://travis-ci.org/HayDar-Android/CustomSeekBar.svg?branch=master)](https://travis-ci.org/HayDar-Android/CustomSeekBar)
-
 [ ![Download](https://api.bintray.com/packages/haydar-android/maven/custom-seekbar/images/download.svg) ](https://bintray.com/haydar-android/maven/custom-seekbar/_latestVersion)
 
 
