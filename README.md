@@ -1,7 +1,4 @@
-#CustomSeekBar  
-[![Build Status](https://travis-ci.org/HayDar-Android/CustomSeekBar.svg?branch=master)](https://travis-ci.org/HayDar-Android/CustomSeekBar)
-[ ![Download](https://api.bintray.com/packages/haydar-android/maven/custom-seekbar/images/download.svg) ](https://bintray.com/haydar-android/maven/custom-seekbar/_latestVersion)
-
+#CustomSeekBar[![Download](https://api.bintray.com/packages/haydar-android/maven/custom-seekbar/images/download.svg) ](https://bintray.com/haydar-android/maven/custom-seekbar/_latestVersion)
 
 CustomSeekBar 是一个自定义的seekbar,可以把line分成几段，支持滑动选择
 ![](https://raw.githubusercontent.com/HayDar-Android/CustomSeekBar/master/a.gif "CustomSeekBar")
